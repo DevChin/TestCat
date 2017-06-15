@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print("新的分支")
         print("新的分支测试2")
         print("新的分支测试3")
+        print("新的分支测试4")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
