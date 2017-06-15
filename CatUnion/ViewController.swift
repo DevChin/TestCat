@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("新的分支")
         print("新的分支测试2")
+        print("新的分支测试3")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
