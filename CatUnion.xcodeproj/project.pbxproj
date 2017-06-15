@@ -99,6 +99,10 @@
 		DB43BBCF1EF2927B000C8259 /* CatUnion */ = {
 			isa = PBXGroup;
 			children = (
+				DB43BC011EF292F3000C8259 /* Core */,
+				DB43BC021EF292F3000C8259 /* General */,
+				DB43BC031EF292F3000C8259 /* Sections */,
+				DB43BC041EF292F3000C8259 /* Vendors */,
 				DB43BBD01EF2927B000C8259 /* AppDelegate.swift */,
 				DB43BBD21EF2927B000C8259 /* ViewController.swift */,
 				DB43BBD41EF2927B000C8259 /* Main.storyboard */,
@@ -126,6 +130,34 @@
 				DB43BBF51EF2927B000C8259 /* Info.plist */,
 			);
 			path = CatUnionUITests;
+			sourceTree = "<group>";
+		};
+		DB43BC011EF292F3000C8259 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		DB43BC021EF292F3000C8259 /* General */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = General;
+			sourceTree = "<group>";
+		};
+		DB43BC031EF292F3000C8259 /* Sections */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Sections;
+			sourceTree = "<group>";
+		};
+		DB43BC041EF292F3000C8259 /* Vendors */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Vendors;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
